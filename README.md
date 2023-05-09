@@ -6,3 +6,8 @@ a) Negative sampling loss
 b) Implement the skip-gram model from scratch  
 c) Train with real-data  
 d) Show the result embeddings  
+
+**Resource**
+1. https://www.baeldung.com/cs/nlps-word2vec-negative-sampling
+2. 
+
